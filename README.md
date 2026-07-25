@@ -21,4 +21,4 @@ MATLAB project for detecting marked circles in scanned answer-sheet style images
 2. Run `main.m`.
 3. Check console output and optional debug figures (`verbose = true` in `main.m`).
 
-> Note: `main.m` currently reads `input\1.jpg` directly inside the loop.
+Documented by Copilot.
